@@ -22,7 +22,7 @@ Tested using /mcp list (server active & responding)
 
 3) ***/mcp list***
 
-![mcp list](/screenshoot/mcp_list.PNG)
+![mcp list](/screenshoot/mcp_list.png)
 
 4) ***Github Repo list output***
 
