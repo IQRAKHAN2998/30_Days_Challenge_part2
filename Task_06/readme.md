@@ -14,7 +14,7 @@ Tested using /mcp list (server active & responding)
 
 1) ***.env file***
 
-![env file](/screenshoot/env.png)
+![env file](env.png)
 
 2) ***settings.json file***
 
@@ -22,10 +22,10 @@ Tested using /mcp list (server active & responding)
 
 3) ***/mcp list***
 
-![mcp list](/screenshoot/mcp_list.png)
+![mcp list](mcp_list.png)
 
 4) ***Github Repo list output***
 
-![list output](/screenshoot/output.png)
+![list output](output.png)
 
-![repo name list output](/screenshoot/repo_list.png)
+![repo name list output](repo_list.png)
