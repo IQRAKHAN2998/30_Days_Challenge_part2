@@ -18,7 +18,7 @@ Tested using /mcp list (server active & responding)
 
 2) ***settings.json file***
 
-![settings.json file](/settings.PNG)
+![settings.json file](settings.PNG)
 
 3) ***/mcp list***
 
