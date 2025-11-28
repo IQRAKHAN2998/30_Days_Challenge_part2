@@ -14,18 +14,18 @@ Tested using /mcp list (server active & responding)
 
 1) ***.env file***
 
-![env file](/env.PNG)
+![env file](/screenshoot/env.PNG)
 
 2) ***settings.json file***
 
-![settings.json file](/settings.PNG)
+![settings.json file](/screenshoot/settings.PNG)
 
 3) ***/mcp list***
 
-![mcp list](/mcp_list.png)
+![mcp list](/screenshoot/mcp_list.png)
 
 4) ***Github Repo list output***
 
-![list output](/output.PNG)
+![list output](/screenshoot/output.PNG)
 
-![repo name list output](/repo_list.PNG)
+![repo name list output](/screenshoot/repo_list.PNG)
